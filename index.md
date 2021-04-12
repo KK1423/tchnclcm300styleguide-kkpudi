@@ -14,15 +14,15 @@ The Slip logos are available as scalable vector files in the assets subdirectory
 
 An abbreviated logo is provided for unobtrusive use in webpage footers, mobile application sidebars, and conventional help menus:
 
-![Small logo](assets/img/slipLogo.svg)
+![Small logo]({{ "/assets/img/slipLogo.svg" | relative_url }})
 
 Example usage:
 
-![Example Footage](assets/img/slipFoot.svg)
+![Example Footage]({{ "/assets/img/slipFoot.svg" | relative_url }})
 
 The full logo is shown when the user navigates to the Slip management portal:
 
-![Full logo](assets/img/slipLogoFull.svg)
+![Full logo]({{ "/assets/img/slipLogoFull.svg" | relative_url }})
 
 Our branding uses an off-red (#c83737) as the primary color, and a pure gray (#808080) as the accent color. If desired, the accent color can be substituted with an 80% gray or a 20% gray in order to increase contrast with client branding.
 
