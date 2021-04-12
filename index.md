@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/KK1423/tchnclcm300styleguide-kkpudi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Style Guide
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This style guide provides best practices for the usage of Slip branding on both end-user websites and internal development tools. Since the Slip tracker focuses on showing a friendly interface for issue tracking to end users, our uniform assets and styling can be used to give your users a familiar support experience. While adherance to these guidelines is recommended, other interfaces can be used to redirect your users to the Slip platform.
 
-### Markdown
+Guidelines and templates for internal documents are available in  our [Internal Documents Guide](./InternalDocuments.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Colors and Logos
 
-```markdown
-Syntax highlighted code block
+The Slip logos are available as scalable vector files in the assets subdirectory of our [main software repository]({{ site.github.repository_url }}).
 
-# Header 1
-## Header 2
-### Header 3
+An abbreviated logo is provided for unobtrusive use in webpage footers, mobile application sidebars, and conventional help menus:
 
-- Bulleted
-- List
+![Small logo](assets/img/slipLogo.svg)
 
-1. Numbered
-2. List
+Example usage:
 
-**Bold** and _Italic_ and `Code` text
+![Example Footage](assets/img/slipFoot.svg)
 
-[Link](url) and ![Image](src)
-```
+The full logo is shown when the user navigates to the Slip management portal:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Full logo](assets/img/slipLogoFull.svg)
 
-### Jekyll Themes
+Our branding uses an off-red (#c83737) as the primary color, and a pure gray (#808080) as the accent color. If desired, the accent color can be substituted with an 80% gray or a 20% gray in order to increase contrast with client branding.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KK1423/tchnclcm300styleguide-kkpudi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Typefaces
 
-### Support or Contact
+Slip uses the Fira Sans and Fira Code families for formatted text and embedded source code, respectively. When rendering a Slip or related objects, these families are preferred.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+When embedding branding into other applications, use the same typeface that is used for other text on similar user interface elements.
+
+The Slip logo itself uses italic 900 variant of the Roboto typeface. 
+
+## Keywords and Language
+
+The Slip platform is centered around the Slip, a unit of data which provides functionality similar to a customer support token or a bug tracker issue. Users can be prompted to "Take a Slip," rather than asking them to file a complaint or report an issue. This phrasing is preferred in communication with users of the service.
+

@@ -1,0 +1,37 @@
+I".	<h1 id="style-guide">Style Guide</h1>
+
+<p>This style guide provides best practices for the usage of Slip branding on both end-user websites and internal development tools. Since the Slip tracker focuses on showing a friendly interface for issue tracking to end users, our uniform assets and styling can be used to give your users a familiar support experience. While adherance to these guidelines is recommended, other interfaces can be used to redirect your users to the Slip platform.</p>
+
+<p>Guidelines and templates for internal documents are available in  our <a href="./InternalDocuments.html">Internal Documents Guide</a>.</p>
+
+<h2 id="colors-and-logos">Colors and Logos</h2>
+
+<p>The Slip logos are available as scalable vector files in the assets subdirectory of our <a href="">main software repository</a>.</p>
+
+<p>An abbreviated logo is provided for unobtrusive use in webpage footers, mobile application sidebars, and conventional help menus:</p>
+
+<p><img src="assets/img/slipLogo.svg" alt="Small logo" /></p>
+
+<p>Example usage:</p>
+
+<p><img src="assets/img/slipFoot.svg" alt="Example Footage" /></p>
+
+<p>The full logo is shown when the user navigates to the Slip management portal:</p>
+
+<p><img src="assets/img/slipLogoFull.svg" alt="Full logo" /></p>
+
+<p>Our branding uses an off-red (#c83737) as the primary color, and a pure gray (#808080) as the accent color. If desired, the accent color can be substituted with an 80% gray or a 20% gray in order to increase contrast with client branding.</p>
+
+<h3 id="typefaces">Typefaces</h3>
+
+<p>Slip uses the Fira Sans and Fira Code families for formatted text and embedded source code, respectively. When rendering a Slip or related objects, these families are preferred.</p>
+
+<p>When embedding branding into other applications, use the same typeface that is used for other text on similar user interface elements.</p>
+
+<p>The Slip logo itself uses italic 900 variant of the Roboto typeface.</p>
+
+<h2 id="keywords-and-language">Keywords and Language</h2>
+
+<p>The Slip platform is centered around the Slip, a unit of data which provides functionality similar to a customer support token or a bug tracker issue. Users can be prompted to “Take a Slip,” rather than asking them to file a complaint or report an issue. This phrasing is preferred in communication with users of the service.</p>
+
+:ET
