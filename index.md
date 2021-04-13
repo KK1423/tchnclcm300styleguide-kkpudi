@@ -10,7 +10,7 @@ Guidelines and templates for internal documents are available in  our [Internal 
 
 ## Colors and Logos
 
-The Slip logos are available as scalable vector files in the assets subdirectory of our [main software repository]({{ site.github.repository_url }}).
+The Slip logos are available as scalable vector files in the assets subdirectory of our [main software repository](https://github.com/KK1423/tchnclcm300styleguide-kkpudi).
 
 An abbreviated logo is provided for unobtrusive use in webpage footers, mobile application sidebars, and conventional help menus:
 
