@@ -7,7 +7,7 @@ The source code for memos, letters, and reports can be found in the templates su
 
 ## Slideware
 
-Presentations given by employees should conform to the given Slideware template. Be sure to use the slideware as a tool to summarize key points and deliver concepts graphically. A template is available on Google Slides.
+Presentations given by employees should conform to the given Slideware template. Be sure to use the slideware as a tool to summarize key points and deliver concepts graphically. A template is available on [Google Slides](https://docs.google.com/presentation/d/12wHkP9c6tmh7g9HA02PbtRvy85qjVAiA1SUPT6ujuAM/edit?usp=sharing).
 
 {% assign slidewareUrl = "/assets/pdf/slideware.pdf" | relative_url %}
 {% pdf slidewareUrl no_link %}
