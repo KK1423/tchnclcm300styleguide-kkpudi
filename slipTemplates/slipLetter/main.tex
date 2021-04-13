@@ -1,0 +1,33 @@
+% !TeX root = ./main.tex
+\documentclass{letter}
+\usepackage[top=0.5cm, bottom=0.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\usepackage{lipsum}
+
+\address{\\ \\ \\ \large \textbf{Slip Inc.} \\ 800 Main St.\\ Ann Arbor, Michigan \\ 480103, United States \\}
+\date{}
+
+\begin{document}
+\begin{letter}
+    \centering
+
+    \hfill
+    \begin{wrapfigure}[1]{l}{0.25\linewidth}%{height=0.65\textheight}
+        \vspace{4em}
+        \includegraphics[width=0.2\textwidth]{../slipLogoDark.png}
+    \end{wrapfigure}
+
+    \opening{To Whom it May Concern:} % admissions officer
+    \medskip
+
+    \lipsum[1-5]
+
+    \medskip
+    Sincerely, \\
+    Name Surname \\
+
+\end{letter}
+\end{document}
