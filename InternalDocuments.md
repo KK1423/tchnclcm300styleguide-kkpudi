@@ -26,7 +26,7 @@ For formal communication with external entities, the business letter should be u
 {% assign letterUrl = "/assets/pdf/letter.pdf" | relative_url %}
 {% pdf letterUrl no_link %}
 
-## Techincal Reports
+## Technical Reports
 
 The results of research or testing should be communicated in the IEEE format for ease of distribution. The standard IEEE template is shown below, with the optional addition of a monochrome Slip logo. These reports should adhere to established conventions for domain specific language and notation. Reports should be comprehensive and the results within should be reproducible.
 
